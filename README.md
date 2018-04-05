@@ -1,6 +1,6 @@
 ﻿# ToDo-List-App (Список дел)
 
-<p align="center"><img src="./screenshot/screenshot.png" /></p>
+<p align="center"><img src="./screenshot/video.gif" /></p>
 
 ## Описание
 
