@@ -1,4 +1,4 @@
-<span style="color:'blue';">ReactJS production </span>
+<code>ReactJS production </code>
 
 # ToDo-List-App (Список дел)
 
