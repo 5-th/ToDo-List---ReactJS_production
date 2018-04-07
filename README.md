@@ -1,4 +1,4 @@
-<code>ReactJS production </code>
+<strong>ReactJS production </strong>
 
 # ToDo-List-App (Список дел)
 
